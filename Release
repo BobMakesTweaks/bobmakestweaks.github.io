@@ -1,0 +1,8 @@
+Origin: Bobs Planet
+Label: BobMakesTweaks
+Suite: stable
+Version: 0.9
+Codename: BobMakesTweaks
+Architectures: iphoneos-arm
+Components: main
+Description: I Really Make Tweaks
