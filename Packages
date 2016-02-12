@@ -1,14 +1,14 @@
 Package: com.bobmakestweaks.zf
-Version: 0.0.2
+Version: 0.0.3
 Section: Tweaks
 Maintainer: Bob <bobmakestweaks@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.bobmakestweaks.zf_0.0.2_iphoneos-arm.deb
-Size: 7186
+Filename: debs//com.bobmakestweaks.zf_0.0.3_iphoneos-arm.deb
+Size: 7778
 Installed-Size: 120
-MD5sum: 79eb11925b6653d8b438cad2a14899e9
+MD5sum: cd1b11194b634813a403be815d7bdc5f
 Description: Fix Zentrum, Add Polus
-author: bob <bobmakestweaks@gmail.com>
+author: Bob <bobmakestweaks@gmail.com>
 name: Zentrum Fixer
 
